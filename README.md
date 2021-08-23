@@ -24,7 +24,7 @@ A flutter app for getting details about latest and popular movies andTv Shows.
 
   
 ## Screenshots
-![App Screenshot](https://i.ibb.co/m5YQYV1/Whats-App-Image-2021-08-23-at-9-37-21-AM-8.jpg = 100*100)
+<img src="https://i.ibb.co/m5YQYV1/Whats-App-Image-2021-08-23-at-9-37-21-AM-8.jpg" width="200" height="200"/>
 ![App Screenshot](https://i.ibb.co/YjQqWWZ/Whats-App-Image-2021-08-23-at-9-37-21-AM-7.jpg)
 ![App Screenshot](https://i.ibb.co/qN7TpDf/Whats-App-Image-2021-08-23-at-9-37-21-AM-6.jpg)
 ![App Screenshot](https://i.ibb.co/YtbMQTz/Whats-App-Image-2021-08-23-at-9-37-21-AM-5.jpg)
