@@ -1,17 +1,35 @@
-# movieapp
 
-A new Flutter project.
+![Logo](https://i.ibb.co/612ZJvT/ic-launcher.jpg)
 
-## Getting Started
+    
+# Movie App
 
-This project is a starting point for a Flutter application.
+A flutter app for getting details about latest and popular movies andTv Shows.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Movie-App-Flutter-" 
+## Authors
+
+- [@ameygodse007](https://github.com/ameygodse007)
+
+  
+## Features
+
+- Get latest movies and TV shows details.
+- Get popular movies and TV shows details.
+- Get actor info.
+- Hybrid app.
+- Watch particular movie and tv shows tralier on youtube.
+- Search any movie/TV show info.
+
+  
+## Screenshots
+![App Screenshot](https://i.ibb.co/m5YQYV1/Whats-App-Image-2021-08-23-at-9-37-21-AM-8.jpg)
+![App Screenshot](https://i.ibb.co/YjQqWWZ/Whats-App-Image-2021-08-23-at-9-37-21-AM-7.jpg)
+![App Screenshot](https://i.ibb.co/qN7TpDf/Whats-App-Image-2021-08-23-at-9-37-21-AM-6.jpg)
+![App Screenshot](https://i.ibb.co/YtbMQTz/Whats-App-Image-2021-08-23-at-9-37-21-AM-5.jpg)
+![App Screenshot](https://i.ibb.co/qDh0BKb/Whats-App-Image-2021-08-23-at-9-37-21-AM-4.jpg)
+![App Screenshot](https://i.ibb.co/ryMxQ0Y/Whats-App-Image-2021-08-23-at-9-37-21-AM-3.jpg)
+![App Screenshot](https://i.ibb.co/TMq8WtV/Whats-App-Image-2021-08-23-at-9-37-21-AM-2.jpg)
+![App Screenshot](https://i.ibb.co/r59T9sw/Whats-App-Image-2021-08-23-at-9-37-21-AM-1.jpg)
+![App Screenshot](https://i.ibb.co/r59T9sw/Whats-App-Image-2021-08-23-at-9-37-21-AM-1.jpg)
